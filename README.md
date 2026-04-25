@@ -7,3 +7,4 @@ I have been keen on computers for about six years. Now I want to do my favourite
 I'll be glad to receive every cent.
 Current finance targets:
 -New basketball 🏀 (30$)
+-New Laptop (300$)
