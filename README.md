@@ -1,4 +1,4 @@
-Currently Working on https://github.com/kiburkiv-prog/Untitled-Run-n-Gun 
+Currently Working on https://github.com/kiburkiv-prog/blang and https://github.com/kiburkiv-prog/Untitled-Run-n-Gun
 -
 
 EMAIL : kiburkiv@gmail.com
