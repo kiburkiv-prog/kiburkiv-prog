@@ -2,6 +2,7 @@ Currently Working on https://github.com/kiburkiv-prog/blang
 -
 
 EMAIL : kiburkiv@gmail.com
+Telegram : https://t.me/+eUBGNH-tSnw0OGQy
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,linux)](https://skillicons.dev)
 
